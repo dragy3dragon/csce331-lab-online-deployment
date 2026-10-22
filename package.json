@@ -1,0 +1,17 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "aiden",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}
